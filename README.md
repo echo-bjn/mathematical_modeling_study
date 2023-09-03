@@ -1,0 +1,2 @@
+# mathematical_modeling_study
+准备数学建模比赛时学习的内容
